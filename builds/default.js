@@ -11,4 +11,3 @@ module.exports = {
         nightly_branch: "bugfix-2.1.x"
     }
 };
-
