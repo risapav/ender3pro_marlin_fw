@@ -1,0 +1,17 @@
+{
+    "builds/autoLevel5x5.js": {
+        "version": "38e633023603559032f2daa80b1ee99d9bd4df72",
+        "md5": "4be69e5b52aa3d6cb911b94c7c12a9a3",
+        "assetId": 95955677
+    },
+    "builds/base.js": {
+        "version": "38e633023603559032f2daa80b1ee99d9bd4df72",
+        "md5": "47dd052e1f777e61434a8f9741a9e416",
+        "assetId": 95955678
+    },
+    "builds/default.js": {
+        "version": "38e633023603559032f2daa80b1ee99d9bd4df72",
+        "md5": "91bb68d251b865cf2fa2a21cc6c1e1e8",
+        "assetId": 95955680
+    }
+}
