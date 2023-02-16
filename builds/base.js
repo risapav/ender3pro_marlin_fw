@@ -6,7 +6,7 @@ module.exports = {
     },
     configuration: {
         enable: [
-            ["STRING_CONFIG_H_AUTHOR", "(Dust, valerionew, Ender-3Pro, risapav)"],
+            ["STRING_CONFIG_H_AUTHOR", "(Dust, valerionew, Ender-3 Pro, risapav)"],
             //standard leveling menu helper
             "LCD_BED_TRAMMING",
             "BED_TRAMMING_INCLUDE_CENTER"
