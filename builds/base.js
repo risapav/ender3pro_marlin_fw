@@ -9,7 +9,8 @@ module.exports = {
             ["STRING_CONFIG_H_AUTHOR", "(Dust, Ender-3 Pro, risapav)"],
             //standard leveling menu helper
             "LCD_BED_TRAMMING",
-            "BED_TRAMMING_INCLUDE_CENTER"
+            "BED_TRAMMING_INCLUDE_CENTER",
+            ["GRID_MAX_POINTS_X", 3]
         ]
     },
     configuration_adv: {
