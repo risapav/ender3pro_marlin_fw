@@ -11,20 +11,14 @@ module.exports = {
             //BLTOUCH probe offsets
             ["NOZZLE_TO_PROBE_OFFSET", [-40, -9, 0]],
                     
-            
-            
+            //leveling            
             ["DEFAULT_LEVELING_FADE_HEIGHT", 20]
-
-
-            
-            
-
-            //M48 test
-//            "Z_MIN_PROBE_REPEATABILITY_TEST"
+           
         ],
         disable: [
             "USE_PROBE_FOR_Z_HOMING",
-            "LCD_BED_LEVELING"
+            "LCD_BED_LEVELING",
+            "Z_MIN_PROBE_REPEATABILITY_TEST"
         ]
     },
     configuration_adv: {
