@@ -1,9 +1,4 @@
 {
-    "builds/autoLevel5x5.js": {
-        "version": "2.1.2",
-        "md5": "65d5f2d5bb3f8b51c39ea78dc156ab57",
-        "assetId": 95958129
-    },
     "builds/base.js": {
         "version": "2.1.2",
         "md5": "62931ce3a2151846eac39260e7d6da82",
@@ -13,5 +8,10 @@
         "version": "2.1.2",
         "md5": "91bb68d251b865cf2fa2a21cc6c1e1e8",
         "assetId": 95955017
+    },
+    "builds/fw.js": {
+        "version": "2.1.2",
+        "md5": "ca59be7ac874d616a2b31758f18d6cf7",
+        "assetId": 96184939
     }
 }
