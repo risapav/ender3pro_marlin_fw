@@ -1,0 +1,17 @@
+{
+    "builds/base.js": {
+        "version": "9db5bd000b6a07b8dcb6d6568df8411efe57a133",
+        "md5": "62931ce3a2151846eac39260e7d6da82",
+        "assetId": 96191161
+    },
+    "builds/default.js": {
+        "version": "9db5bd000b6a07b8dcb6d6568df8411efe57a133",
+        "md5": "91bb68d251b865cf2fa2a21cc6c1e1e8",
+        "assetId": 96191163
+    },
+    "builds/fw.js": {
+        "version": "9db5bd000b6a07b8dcb6d6568df8411efe57a133",
+        "md5": "924b5601c48e25f78d45b3da093e2a1c",
+        "assetId": 96191165
+    }
+}
