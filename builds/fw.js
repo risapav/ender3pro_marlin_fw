@@ -12,7 +12,7 @@ module.exports = {
     configuration: {
         enable: [
           //probing grid
-            ["GRID_MAX_POINTS_X", 3]
+          //  ["GRID_MAX_POINTS_X", 3]
         ]
     }
 };
