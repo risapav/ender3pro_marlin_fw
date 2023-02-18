@@ -9,7 +9,7 @@ module.exports = {
             //BLTOUCH settings
             "Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN",
             //BLTOUCH probe offsets
-            ["NOZZLE_TO_PROBE_OFFSET", [-42, -10, 0]],
+            ["NOZZLE_TO_PROBE_OFFSET", [-40, -9, 0]],
                     
             
             
