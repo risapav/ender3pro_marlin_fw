@@ -9,7 +9,16 @@ Automatic build system, to create firmware for my Ender3Pro printer.
 5. added 3D Printer Heat Insulation Cotton 200/220/310mm Heatbed Sticker Foil Self-Adhesive Insulation Cotton
 6. added X Axis Linear Rail 
 
-
-## Helpp from websites
+## Help from websites
 https://teachingtechyt.github.io/upgrades.html#bltouch
 https://www.reddit.com/r/Ender3/wiki/firmware/
+
+## Firmware in MicroSD
+
+With 32-bit controller board comes with a bootloader that will read and load new firmware on microSD card:
+
+ - MicroSD card must be formatted to FAT32
+ - Only ONE file in the microSD card and it must be .bin extension
+ - The filename must be unique that the previous filename. So it will be easier if you put the date in the      filename with additional versions like a, b, c, etc at the back. For example:
+        E3_Default_16Aug21_a.bin
+ - The bootloader will check the microSD card for the firmware and upload itself during power recycling.
