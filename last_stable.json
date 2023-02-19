@@ -1,8 +1,8 @@
 {
     "builds/base.js": {
         "version": "2.1.2",
-        "md5": "62931ce3a2151846eac39260e7d6da82",
-        "assetId": 96190866
+        "md5": "93e2ce27ca06f2209260b4c17f03731d",
+        "assetId": 96268427
     },
     "builds/default.js": {
         "version": "2.1.2",
