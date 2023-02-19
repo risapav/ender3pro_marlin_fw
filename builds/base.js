@@ -14,8 +14,8 @@ module.exports = {
     },
     configuration_adv: {
         enable: [
-            //octoprint
-//nie            "HOST_ACTION_COMMANDS"
+            //octoprint web interface octoprint.org
+            "HOST_ACTION_COMMANDS"
         ]
     }
 };
