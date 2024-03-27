@@ -7,7 +7,7 @@ module.exports = {
          ["Y_BED_SIZE", 220],            
           //start position
          ["X_MIN_POS", -15],            
-         ["Y_MIN_POS", -25], 
+         ["Y_MIN_POS", -25],
          ["Z_MIN_POS", 0]
         ]
     }
