@@ -2,9 +2,9 @@
 module.exports = {
     extends: "builds/base.js",
     include: [
+      "builds/features/positioning.js",
       "builds/features/autoLevel.js",
-      "builds/features/titan.js",
-      "builds/features/positioning.js"
+      "builds/features/titan.js"
     ],
     meta: {
         stable_name: "ender_3_4.2.7-{{marlin_version}}-fw-{{uid}}",
