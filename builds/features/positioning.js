@@ -8,7 +8,7 @@ module.exports = {
           //start position
          ["X_MIN_POS", -15],            
          ["Y_MIN_POS", -25], 
-         ["Z_MIN_POS", 0], 
+         ["Z_MIN_POS", 0]
         ]
     }
 };
