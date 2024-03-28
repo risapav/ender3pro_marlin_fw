@@ -9,7 +9,10 @@ Automatic build system, to create firmware for my Ender3Pro printer.
 3. transfered from standard printing head to TITAN Extruder Direct Drive Hotend Kit 1.75mm 
 4. added High Temperature Silicone Solid Spacer Hot Bed Leveling Column
 5. added 3D Printer Heat Insulation Cotton 200/220/310mm Heatbed Sticker Foil Self-Adhesive Insulation Cotton
-6. added X Axis Linear Rail 
+6. added X Axis Linear Rail
+7. added Y Axis Linear Rail
+8. added Z Axis Linear Rail
+9. changed settings for home point, start offset, print area
 
 ## Help from websites
 
