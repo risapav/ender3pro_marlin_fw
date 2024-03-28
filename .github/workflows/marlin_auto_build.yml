@@ -9,16 +9,11 @@ on:
   # trigger every night at 03:30
 #  schedule:
 #    - cron:  '30 3 * * *'
-    
-#permissions: write-all
-#   id-token: write
-#   contents: read
    
 jobs:
   create_builds:
     runs-on: ubuntu-latest 
-#    permissions:
-#      contents: write
     steps:
     #- uses: zisismaras/marlin_auto_build@master
-    - uses: KamensekD/marlin_auto_build@Debug
+    - uses: KamensekD/marlin_auto_build@master
+    #- uses: KamensekD/marlin_auto_build@Debug
