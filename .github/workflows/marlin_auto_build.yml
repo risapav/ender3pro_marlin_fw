@@ -9,7 +9,7 @@ on:
 #  schedule:
 #    - cron:  '30 3 * * *'
     
-permissions: write-all
+#permissions: write-all
 #   id-token: write
 #   contents: read
    
@@ -19,4 +19,5 @@ jobs:
 #    permissions:
 #      contents: write
     steps:
-    - uses: zisismaras/marlin_auto_build@master
+    #- uses: zisismaras/marlin_auto_build@master
+    - uses: KamensekD/marlin_auto_build@Debug
