@@ -9,7 +9,7 @@ on:
 #  schedule:
 #    - cron:  '30 3 * * *'
     
-permissions: {}
+permissions: write-all
 #   id-token: write
 #   contents: read
    
