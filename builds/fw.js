@@ -2,6 +2,7 @@
 module.exports = {
     extends: "builds/base.js",
     include: [
+      "builds/features/print_area.js",
       "builds/features/autoLevel.js",
       "builds/features/titan.js"
     ],
